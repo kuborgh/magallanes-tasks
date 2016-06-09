@@ -7,7 +7,7 @@
     "magallanes",
     "tasks",
     "symfony",
-    "parameters.yml"
+    "parameters.yml",
     "facl"
   ],
   "homepage": "https://github.com/kuborgh/magallanes-tasks",
