@@ -1,0 +1,24 @@
+{
+  "name": "kuborgh/magallanes-tasks",
+  "type": "library",
+  "description": "A collection of useful reusable magallanes tasks",
+  "keywords": [
+    "library",
+    "magallanes",
+    "tasks",
+    "symfony",
+    "parameters.yml"
+    "facl"
+  ],
+  "homepage": "https://github.com/kuborgh/magallanes-tasks",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Hannes Giesenow",
+      "email": "hgiesenow@kuborgh.de"
+    }
+  ],
+  "autoload": {
+    "psr-4": {}
+  }
+}
